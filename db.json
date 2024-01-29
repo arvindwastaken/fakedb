@@ -1,10 +1,8 @@
 {
   "SignUpusers": [
     {
-     {
       "email": "arvind@gmail.com",
       "password": "1234"
-    }
-    }
+    },
   ]
 }
